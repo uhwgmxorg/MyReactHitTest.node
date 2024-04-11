@@ -21,5 +21,5 @@ The web application can be started with:
 
 `npx vite`. 
 
-You can get more Information on: https://uhwgmxorg.wordpress.com/2024/04/11/myreacthittest/
+You can get more Information on: https://uhwgmxorg.wordpress.com/2024/04/11/myreacthittest/ <br>
 and try it on: https://uhwgmxorg.online/MyReactHitTest/
